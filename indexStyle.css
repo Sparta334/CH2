@@ -1,0 +1,49 @@
+.contanier{
+
+
+    display: flex;
+    width: 1600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+
+}
+
+.Btn{
+
+
+    height: 75%;
+    width :18%;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    background-color: aqua;
+    border-radius: 100%;
+
+    position: relative;
+
+}
+
+.Btn a{
+
+
+    
+    text-decoration: none;
+   width: 100%;
+   height: 100%;
+   position: absolute;
+   
+
+}
+
+.Btn a div{
+    text-align: center;
+    line-height: 288px;
+    font-size: x-large;
+    height:100%;
+    font-family: 'Zen Maru Gothic', sans-serif;
+    margin: auto;
+}
